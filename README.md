@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hi, I'm Amine / Welcome to my profile / 👋
+### Hi, I'm Faiza / Welcome to my profile / 👋
 -------------------------
 
 
