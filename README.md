@@ -1,7 +1,4 @@
-### Hi there 👋
 ### Hi, I'm Faiza / Welcome to my profile / 👋
--------------------------
-
 
 <!--
 **Faizarabhi/Faizarabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
