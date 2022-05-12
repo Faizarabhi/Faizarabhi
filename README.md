@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 -------------------------
 
 [![Faizarabhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizarabhi)](https://github.com/Faizarabhi/github-readme-stats)
+[![Top Langs](https://github.com/Faizarabhi/brief-7-site-anonce)](https://github.com/FAizarabhi/github-readme-stats)
