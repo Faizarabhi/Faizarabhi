@@ -1,8 +1,17 @@
 ### Hi, I'm Faiza / Welcome to my profile / 👋
 
 🔭 I’m currently learning learning Laravel and VueJS
+
+
 💬 Ask me about Code
+
+
+
 📫 How to reach me: Twitter, LinkedIn
+
+
+
+
 <!--
 **Faizarabhi/Faizarabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
