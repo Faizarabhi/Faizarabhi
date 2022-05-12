@@ -7,7 +7,7 @@
 
 
 
-📫 How to reach me: Twitter, LinkedIn
+📫 How to reach me:  LinkedIn : | https://www.linkedin.com/in/faiza-rabhi/
 
 
 
