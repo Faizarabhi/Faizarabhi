@@ -3,11 +3,11 @@
 🔭 I’m currently learning learning Laravel and VueJS
 
 
-💬 Ask me about Code
+💬 Ask me about Coding
 
 
 
-📫 How to reach me:  LinkedIn : | https://www.linkedin.com/in/faiza-rabhi/
+📫 How to reach me:  LinkedIn  | https://www.linkedin.com/in/faiza-rabhi/
 
 
 
