@@ -1,6 +1,6 @@
 ### Hi, I'm Faiza / Welcome to my profile / 👋
 
-🔭 I’m currently learning learning Laravel and VueJS
+🔭 I’m currently learning Laravel and VueJS
 
 
 💬 Ask me about Coding
