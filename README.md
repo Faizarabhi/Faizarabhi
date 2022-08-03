@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/Faizarabhi8"><img src="https://api.daily.dev/devcards/c6c3cabd193a468dbc40022e073d9665.png?r=qb5" width="400" alt="Faiza RABHI's Dev Card"/></a>
+
 -------------------------
 
 [![Faizarabhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizarabhi)](https://github.com/Faizarabhi/github-readme-stats)
