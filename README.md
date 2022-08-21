@@ -1,4 +1,4 @@
-### Hi, I'm Faiza / Welcome to my profile / 👋
+### Hi, I'm Faiza / Welcome to my profile / 🤯
 
 🔭 I’m currently learning Laravel and VueJS
 
