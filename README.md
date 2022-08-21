@@ -1,6 +1,6 @@
 ### Hi, I'm Faiza / Welcome to my profile / 🤯
 
-🔭 I’m currently learning Laravel and VueJS
+🔭 I’m currently FullStack developer
 
 
 💬 Ask me about Coding
