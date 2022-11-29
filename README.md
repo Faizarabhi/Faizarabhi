@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 [![Faizarabhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizarabhi)](https://github.com/Faizarabhi/github-readme-stats)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faizarabhi&theme=dark&background=000000)](https://git.io/streak-stats)
