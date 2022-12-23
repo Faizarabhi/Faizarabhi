@@ -1,11 +1,10 @@
 ### Hi, I'm Faiza / Welcome to my profile / 🤯
 
-Hi there! My name is Faiza RABHI and I am a fullstack developer with a passion for creating innovative and intuitive software solutions. I am currently working and am always looking for new opportunities to grow and develop my skills.
+Hi there 👋🏻! My name is Faiza RABHI and I am a fullstack developer 👩🏻‍💻 with a passion for creating innovative and intuitive software solutions. I have experience working with a variety of technologies and am always looking 🦸🏻‍♀️ for new opportunities to grow and develop my skills ⚡️.
 
 In my free time, I enjoy staying up-to-date on the latest technology trends and exploring new programming languages. I am also actively involved in the software development community, always looking for ways to contribute and learn from my peers.
 
-Feel free to reach out to me if you have any questions or just want to connect. I am always open to discussing new ideas and opportunities for collaboration.
-
+If you have any questions or would like to connect, don't hesitate to reach out. I am always open to discussing new ideas and opportunities for collaboration.
 
 
 
