@@ -14,6 +14,16 @@ If you have any questions or would like to connect, don't hesitate to reach out.
 
 
 
+{
+   "languages" : ["PHP", "TypeScript", "JavaScript", "C"],
+   "web_backend" : ["Laravel"],
+   "web_frontend" : ["React", "Nextjs", "Angular", "Vuejs", "Nuxtjs"],
+   "mobile_app" : {
+     "frameworks" : "React native"
+   },
+}
+
+
 <!--
 **Faizarabhi/Faizarabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
