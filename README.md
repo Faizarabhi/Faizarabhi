@@ -21,7 +21,7 @@ If you have any questions or would like to connect, don't hesitate to reach out.
    "mobile_app" : {
      "frameworks" : "React native"
    },
-}
+
 ```
 
 <!--
