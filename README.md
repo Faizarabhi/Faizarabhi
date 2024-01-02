@@ -20,7 +20,7 @@ If you have any questions or would like to connect, don't hesitate to reach out.
    "web_frontend" : ["React", "Nextjs", "Angular", "Vuejs", "Nuxtjs"],
    "mobile_app" : {
      "frameworks" : "React native"
-   },
+}
 
 ```
 
