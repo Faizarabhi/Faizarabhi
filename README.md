@@ -10,6 +10,7 @@ During my leisure time, I immerse myself in the ever-evolving tech landscape and
 
 ### How to connect with me:
 📫 LinkedIn: https://www.linkedin.com/in/faiza-rabhi/
+
 🤖 Leetcode : https://leetcode.com/faizarabhi8/
 
 Feel free to reach out for discussions, queries, or exciting collaboration opportunities! I'm always keen on exploring novel ideas and fostering collaborative ventures.
